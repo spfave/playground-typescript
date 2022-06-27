@@ -1,6 +1,6 @@
-# **TypeScript Sandbox**
+# **TypeScript Playground**
 > [TypeScript Site](https://www.typescriptlang.org/)
 
-## **Playgrounds**
+## **Sandboxes**
 - [No BS TS](./no-bs-ts)
 

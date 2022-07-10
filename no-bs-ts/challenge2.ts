@@ -2,7 +2,7 @@
 
 // forEach
 function reduceForEach<T>(array: T[], callback: (value: T) => void): void {
-  array.reduce((aVal, cVal) => {
+  array.reduce((_aVal, cVal) => {
     callback(cVal);
     return null;
   }, null);
